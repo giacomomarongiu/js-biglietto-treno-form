@@ -1,0 +1,15 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+background-color: bisque !important;
+}
+
+#my_site{
+    background-color: green;
+    max-width: 75%;
+    margin: auto;
+    border-radius: 15px;
+}
+
